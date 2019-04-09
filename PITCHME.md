@@ -1,4 +1,4 @@
----?image=assets/img/first.png&position=top&size=100% 45%&color=white
+---?image=assets/img/first.png&position=top&size=100% 45%&color=lightgray
 @snap[midpoint span-200]
 @size[1.5em](硬件学Python 第二课  玩转Skids开发板)
 @snapend
