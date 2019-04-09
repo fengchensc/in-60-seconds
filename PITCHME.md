@@ -1,9 +1,12 @@
-@snap[north span-50]
+@snap[north span-200]
 ![](assets/img/first.png)
 @snapend
-# 硬件学Python 第二课 玩转Skids开发板
-@box[text-orange span-80 fragment](牛艾科技)
-
+#硬件学Python
+#第二课 
+#玩转Skids开发板
+@snap[midpoint span-40]
+@box[bg-gold text-white rounded box-padding](牛艾科技)
+@snapend
 ---
 
 ## Add Some Slide Candy
