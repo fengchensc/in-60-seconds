@@ -1,7 +1,7 @@
----?image=assets/img/first.png&position=top&size=55% 100%
+---?image=assets/img/first.png&position=top&size=100% 50%
 #硬件学Python 第二课 玩转Skids开发板
-@snap[north span-30]
-@box[bg-gold text-white rounded box-padding](牛艾科技) 
+@snap[south span-25]
+@box[bg-blue text-white rounded box-padding](牛艾科技) 
 @snapend
 ---
 
