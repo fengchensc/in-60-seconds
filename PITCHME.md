@@ -1,6 +1,6 @@
 ---?image=assets/img/first.png&position=top&size=100% 45%&color=white
 @snap[midpoint span-100]
-@box[text-white](硬件学Python 第二课  玩转Skids开发板)
+@box[text-black](硬件学Python 第二课  玩转Skids开发板)
 @snapend
 @snap[south span-100]
 @size[0.5em](牛艾科技)
