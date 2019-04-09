@@ -1,11 +1,10 @@
----?image=assets/img/first.png&position=top&size=100% 80%&color=white
-@snap[north-west span-35]
-@box[bg-green text-white box-padding](硬件学Python# 第二课 #玩转Skids开发板)
+---?image=assets/img/first.png&position=top&size=100% 60%&color=white
+@snap[midpoint span-35]
+@box[text-white box-padding](硬件学Python 第二课 玩转Skids开发板)
 @snapend
-@snap[south span-25]
-@box[bg-blue text-white rounded box-padding](牛艾科技) 
+@snap[south span-20]
+@quote[牛艾科技]
 @snapend
-
 ---
 
 ## Add Some Slide Candy
