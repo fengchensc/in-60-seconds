@@ -1,10 +1,6 @@
-@snap[north span-200]
-![](assets/img/first.png)
-@snapend
-#硬件学Python
-#第二课 
-#玩转Skids开发板
-@snap[midpoint span-40]
+---?image=assets/images/first.jpg&position=top&size=55% 100%
+#硬件学Python 第二课 玩转Skids开发板
+@snap[north span-10]
 @box[bg-gold text-white rounded box-padding](牛艾科技) 
 @snapend
 ---
