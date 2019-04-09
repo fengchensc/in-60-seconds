@@ -1,4 +1,8 @@
-# Let's Get Started
+@snap[north span-50]
+![](assets/img/first.png)
+@snapend
+# 硬件学Python 第二课 玩转Skids开发板
+@box[text-orange span-80 fragment](牛艾科技)
 
 ---
 
